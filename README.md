@@ -12,5 +12,5 @@
 * Sequelize
 * Passport (User Sign-Ins)
 * Express 
-* dotenv (environments)
+* dotenv (Environments)
 * Stripe (Payments)
