@@ -6,6 +6,7 @@
 * PostgreSQL
 * EJS
 * Jquery
+* Ruby
 
 ## Notable Modules
 * Jasmine (Testing)
